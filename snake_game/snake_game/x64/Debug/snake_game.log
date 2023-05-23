@@ -1,0 +1,18 @@
+﻿  deadart.cpp
+  intro.cpp
+  sol.cpp
+D:\CODE C++\SnakeGame\snake_game\snake_game\sol.cpp(211,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(49,2): warning C4091: 'typedef ': ignored on left of 'save_info' when no variable is declared
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(104,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(112,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(120,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(136,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(152,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(535,83): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(550,79): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(1035,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(1271,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\CODE C++\SnakeGame\snake_game\snake_game\Source.cpp(1417,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  snake_game.vcxproj -> D:\CODE C++\SnakeGame\snake_game\x64\Debug\snake_game.exe
